@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # iswapp
 
 This application was generated using JHipster 7.0.1, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v7.0.1](https://www.jhipster.tech/documentation-archive/v7.0.1).
@@ -216,3 +217,7 @@ To configure CI for your project, run the ci-cd sub-generator (`jhipster ci-cd`)
 [protractor]: https://angular.github.io/protractor/
 [leaflet]: https://leafletjs.com/
 [definitelytyped]: https://definitelytyped.org/
+=======
+# isw-app
+Aplicación de isw
+>>>>>>> 6086e1274c26d8a5759d1a08284f20b306d3ac00
